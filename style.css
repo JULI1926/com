@@ -1,0 +1,22 @@
+.titulo-1{
+    color: blueviolet;
+    background-color: black;        
+    border-width:4px;
+    border-style:dotted;
+    border-color:blue;
+    width:50%;    
+}
+
+body{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_ratatouille_19736_0814231f.jpeg);
+    background-size: cover;
+}
+
+.button{
+    background-color:maroon
+}
+
+.button p{
+    color:white;
+}
+
